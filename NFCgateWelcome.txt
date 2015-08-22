@@ -1,0 +1,7 @@
+Is there a place anywhere where you walk through a door, and the door recognizes you and greets you by name?
+
+Kinda useless currently, but something rich people looking for attention could crave. Either that or an animatronic which greets them.
+
+The technology could be used with phones by sensing them pass through the door, but would it reach?
+
+If not NFC, what other sensors could work?

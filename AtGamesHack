@@ -1,0 +1,12 @@
+The AtGames 80 Games in One mini Sega Genesis is a bit of a piece of crap. The IR wireless control is garbage, and the sound it outputs is horrible.
+Just like any Chinese electroinic, everything relating to the playback of the device is on a chip on a board.
+Thus, it is going to be impossible to improve the sound quality which is the biggest downer of this system.
+The cartridge slot works well and is pretty authentic, but there's no easy way to salvage that without using a heat gun for 2 hours.
+But an interesting tidbit; the controller ports are independent from the main board, and they work rather well.
+
+Here's the idea; desolder the pins connecting to the main board, ditch the main board (but salvage the cartridge slot if possible),
+and use the controller ports to map to a GAMECUBE controller (suggesting that broken one with the missing triggers?)
+The controller pcb can be housed inside the console after the main board is removed, and two gamecube cables can rather nicely be snaked through the console (if not may need a little shaving on the plastic).
+It's not quite worth keeping the console itself if it is going to perform badly; best get a Genesis 3. Invest more for best quality.
+
+Do NOT get Chinese electronics.
